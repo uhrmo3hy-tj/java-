@@ -1,2 +1,1 @@
-README uehara
-okinawa
+README
